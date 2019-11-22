@@ -5,6 +5,7 @@ Personal KiCAD footprints library. Inspired by [Tyler Crumpton](https://github.c
 ## Footprint List
 
 * `Arduino-Pro-Mini-Baite` - Arduino Pro Mini (made by Baite, black board)
+* `BatteryHolder_CR2032_P20mm` - Horizontal CR2032 holder (model used in motherboards)
 * `DS3231_For_Pi` - DS3231 Realtime Clock module, designed for Raspberry Pi
 * `LLC-4CH_2x6_P2.54mm` - 4-channel Logic Level Converter module
 * `JQ6500_2x8_P2.54mm` - MP3 Player module (16-pin version)
